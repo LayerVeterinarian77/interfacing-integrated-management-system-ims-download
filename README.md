@@ -86,3 +86,14 @@ Third-party software/service, all rights belong to the original authors and trad
 <sub>Third-party software/service, all rights belong to the original authors. Unofficial listing for Interfacing Integrated Management System (IMS).</sub>
 
 </div>
+
+
+## More links
+
+- 🌐 **[Visit Interfacing Integrated Management System (IMS) on SOFTGIT](https://softgit.pro/p/interfacing-integrated-management-system-ims)** — the full listing.
+- 📄 **[Interfacing Integrated Management System (IMS) web page](https://layerveterinarian77.github.io/interfacing-integrated-management-system-ims-download/)** — standalone info page.
+- 🗂️ [More Security software](https://softgit.pro/category/security)
+- 🏠 [SOFTGIT home](https://softgit.pro) · [All apps](https://softgit.pro/apps)
+- 🔒 [Verify a download (SHA-256)](https://softgit.pro/security)
+
+> Unofficial listing for Interfacing Integrated Management System (IMS). Third-party software; all rights belong to the original authors.
